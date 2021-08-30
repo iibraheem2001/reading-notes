@@ -1,6 +1,6 @@
-# Hello, My name is Ibraheem and here is the link to my portfolio 
+# Hello, My name is Ibraheem and here is the link to my portfolio https://github.com/iibraheem2001
 
-# this is my reading notes 
+## this is my reading notes 
 - reading 1
 - reading 2
 - reading 3
