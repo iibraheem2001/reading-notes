@@ -10,9 +10,6 @@
 - reading 7
 - reading 8
 
-## this is a heading 2
-### this is a heading 3
-
 # What does growth mindset mean to me?
 Growth mindset is the understanding and fulfilment of making more progress everyday. I plan to grow wiser and gain knowledge everyday.
 ### 3 reminders to keep me in a growth mindset:
