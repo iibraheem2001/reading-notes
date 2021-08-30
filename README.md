@@ -1,7 +1,7 @@
 # Hello, My name is Ibraheem and here is the link to my portfolio https://github.com/iibraheem2001
 
 ## this is my reading notes 
-- reading 1
+- [reading 1](https://github.com/iibraheem2001/reading-notes/blob/main/Learningmarkdown.md)
 - reading 2
 - reading 3
 - reading 4
