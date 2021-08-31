@@ -4,7 +4,7 @@
 - [reading 1](https://github.com/iibraheem2001/reading-notes/blob/main/Learningmarkdown.md)
 - [reading 2](coderscomputer.md)
 - [reading 3](revisionsandthecloud.md)
-- reading 4
+- [reading 4](html.md)
 - reading 5
 - reading 6
 - reading 7
