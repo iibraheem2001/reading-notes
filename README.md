@@ -2,14 +2,15 @@
 
 ## this is my reading notes 
 - [reading 1](https://github.com/iibraheem2001/reading-notes/blob/main/Learningmarkdown.md)
-- reading 2
-- reading 3
+- [reading 2](coderscomputer.md)
+- [reading 3](revisionsandthecloud.md)
 - reading 4
 - reading 5
 - reading 6
 - reading 7
 - reading 8
-
+#
+### "There is no greater education than one that is self-driven" - Neil DeGrasse Tyson
 # What does growth mindset mean to me?
 Growth mindset is the understanding and fulfilment of making more progress everyday. I plan to grow wiser and gain knowledge everyday.
 ### 3 reminders to keep me in a growth mindset:
