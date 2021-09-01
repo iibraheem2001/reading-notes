@@ -5,7 +5,7 @@
 - [reading 2](coderscomputer.md)
 - [reading 3](revisionsandthecloud.md)
 - [reading 4](html.md)
-- reading 5
+- [reading 5](designwithcss.md)
 - reading 6
 - reading 7
 - reading 8
