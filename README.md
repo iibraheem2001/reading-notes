@@ -9,10 +9,16 @@
 - [reading 6](javascript.md)
 - reading 7
 - reading 8
+
 #
+
 ### "There is no greater education than one that is self-driven" - Neil DeGrasse Tyson
 # What does growth mindset mean to me?
 Growth mindset is the understanding and fulfilment of making more progress everyday. I plan to grow wiser and gain knowledge everyday.
+#
+
+#
+
 ### 3 reminders to keep me in a growth mindset:
 1. Write down personal goals that I plan to achive at the end of the day.
 2. watch motivational videos on YouTube
