@@ -7,7 +7,7 @@
 - [reading 4](html.md)
 - [reading 5](designwithcss.md)
 - [reading 6](javascript.md)
-- reading 7
+- [reading 7](programming_javascript.md)
 - reading 8
 
 #
