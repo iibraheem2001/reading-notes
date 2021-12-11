@@ -23,4 +23,4 @@ Growth mindset is the understanding and fulfilment of making more progress every
 
 
 # Code 301 Reading Notes:
-### Class 01: 
+- [reading 1](react-intro.md)
