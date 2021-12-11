@@ -20,3 +20,7 @@ Growth mindset is the understanding and fulfilment of making more progress every
 1. Write down personal goals that I plan to achive at the end of the day.
 2. watch motivational videos on YouTube
 3. Plan out my day in advance.
+
+
+# Code 301 Reading Notes:
+### Class 01: 
