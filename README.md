@@ -27,6 +27,7 @@ Growth mindset is the understanding and fulfilment of making more progress every
 - [reading 2](state-props.md)
 
 ## Code 401 - Advanced Software Development:
+- [command line](the_command_line.md)
 - [reading 1]()
 - [reading 2]()
 
