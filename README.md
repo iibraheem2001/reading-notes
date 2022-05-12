@@ -25,6 +25,8 @@ Growth mindset is the understanding and fulfilment of making more progress every
 ## Code 301 Reading Notes:
 - [reading 1](react-intro.md)
 - [reading 2](state-props.md)
-<div style="page-break-after: always"></div>
-## Code 401 - Advanced Software Development
+
+## Code 401 - Advanced Software Development:
 - [reading 1]()
+- [reading 2]()
+
