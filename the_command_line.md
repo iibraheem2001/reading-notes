@@ -15,3 +15,4 @@
 * It's a set of pages that explains commands and what systems these commands use.
 * It's possible to do a key word search by using the following command:
 "man -k search term"
+___
