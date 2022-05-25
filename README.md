@@ -34,3 +34,5 @@ Growth mindset is the understanding and fulfilment of making more progress every
 - [SQL](SQL-bolt.md)
 - [reading 1]()
 - [reading 2]()
+- [reading 3]()
+- [reading 4](/classes_and_objects.md)
