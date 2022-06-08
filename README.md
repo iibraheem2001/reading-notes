@@ -38,3 +38,8 @@ Growth mindset is the understanding and fulfilment of making more progress every
 - [reading 4](/classes_and_objects.md)
 - [reading 5]()
 - [reading 6](/ten_thousand.md)
+- [reading 7](/ten_thousand_2.md)
+- [reading 8]()
+- [reading 9]()
+- [reading 10]()
+- [reading 11]()
