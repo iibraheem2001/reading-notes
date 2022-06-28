@@ -43,3 +43,4 @@ Growth mindset is the understanding and fulfilment of making more progress every
 - [reading 9](/ten_thousand_4.md)
 - [reading 10]()
 - [reading 11]()
+- [reading 11](/linear-reg.md)
